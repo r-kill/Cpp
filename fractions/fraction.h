@@ -72,7 +72,7 @@ private:
 public:
 	int resultNum,			// variable to hold the numerator of the RESULT
 	    resultDenom;		// variable to hold the denominator of the RESULT
-	fraction();				// constructor
+	fraction();			// constructor
 	void output();			// outputs the results to the console
 
 	// applies the input operator to the two input fractions
